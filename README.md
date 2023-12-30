@@ -15,8 +15,8 @@ this is top 5 line from the dataset:
 |i feel suspicious if there is no one outside l... |	fear       |
 
 ## Improvement List<br>
-- [x] Connect notebook to the dataset using Kaggle API
-- [x] Add more preprocessing for dataset (stemming, lemmatization, and handling non alphanumeric)
-- [x] Create NLP Vizualization
-- [x] Create model with 98% accucary on training and validation dataset
-- [x] Try to apply pretrained word embeding
+- [ ] Connect notebook to the dataset using Kaggle API
+- [ ] Add more preprocessing for dataset (stemming, lemmatization, and handling non alphanumeric)
+- [ ] Create NLP Vizualization
+- [ ] Create model with 98% accucary on training and validation dataset
+- [ ] Try to apply pretrained word embeding
