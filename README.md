@@ -1,11 +1,11 @@
 # multiclass-classification
 
-This is my project from [Dicoding - Belajar Pengembangan Machine Learning](https://www.dicoding.com/academies/185) and i love to share my experience for prcticing NLP here.
+This is my project from [Dicoding - Belajar Pengembangan Machine Learning](https://www.dicoding.com/academies/185) and i love to share my experience for practicing NLP here.
 
 I'm recommend this dataset to learn: **Natural Languange Processing (NLP)** this ["Emotion Dataset - Kaggle"](https://www.kaggle.com/datasets/abdallahwagih/emotion-dataset).
 
 ## Dataset<br>
-this is top 5 from the dataset:
+this is top 5 line from the dataset:
 |                                          Comment | Emotion     |
 | ------------------------------------------------ | ----------- | 
 |i seriously hate one subject to death but now ... |	fear       |
